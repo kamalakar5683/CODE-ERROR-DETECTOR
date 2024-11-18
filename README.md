@@ -63,14 +63,6 @@ With intuitive designs and robust AI capabilities, these apps are perfect for a 
 - **Python 3.8 or higher**
 - **API Key**: Obtain an API key from Google's Generative AI platform to use the Gemini model.
 
-### Installation:
-```bash
-git clone https://github.com/DeeyaShalya/Streamlit_Based_AI_Apps.git
-cd Streamlit_Based_AI_Apps
-pip install -r requirements.txt
-streamlit run app.py
-```
-
 ---
 
 ## 🌐 **Supported Languages**
