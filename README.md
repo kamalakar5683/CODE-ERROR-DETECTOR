@@ -97,8 +97,4 @@ This repository isn't just a collection of apps—it's a journey into making AI 
 
 **Don’t forget to star ⭐ this repository if you find it useful!**
 
----
-
-🔗 [GitHub Repository](https://github.com/DeeyaShalya/Streamlit_Based_AI_Apps)
-
 #AI #GenerativeAI #Python #Streamlit #MachineLearning #DataScience #DeveloperTools #OpenSource #Innovation
